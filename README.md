@@ -4,7 +4,7 @@
 PyTorch implementation for EMNLP 2020 paper: [Double Graph Based Reasoning for Document-level Relation Extraction](https://arxiv.org/abs/2009.13752)
 
 
-## 8. Citation
+## Citation
 
 If you use this work or code, please kindly cite the following paper:
 
