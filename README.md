@@ -9,10 +9,16 @@ Source code for EMNLP 2020 paper: [Double Graph Based Reasoning for Document-lev
 If you use this work or code, please kindly cite the following paper:
 
 ```bib
-@inproceedings{zeng-EMNLP-2020-GAIN,
- author = {Shuang, Zeng and Runxin, Xu and Baobao, Chang and Lei, Li},
- booktitle = {Proc. of EMNLP},
- title = {Double Graph Based Reasoning for Document-level Relation Extraction},
- year = {2020}
+@inproceedings{zeng-etal-2020-gain,
+    title = "Double Graph Based Reasoning for Document-level Relation Extraction",
+    author = "Zeng, Shuang  and
+      Xu, Runxin  and
+      Chang, Baobao  and
+      Li, Lei",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.127",
+    pages = "1630--1640",
 }
 ```
